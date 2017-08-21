@@ -14,8 +14,8 @@ description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit a
 
 
 '
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
