@@ -9,3 +9,9 @@ layout: post
 ---
 
 Misc.
+![spread.jpg](/uploads/spread.jpg)![spread2.jpg](/uploads/spread2.jpg)
+![spread4.jpg](/uploads/spread4.jpg)
+![exterior.png](/uploads/exterior.png)
+![interior.png](/uploads/interior.png)
+![gallery1.png](/uploads/gallery1.png)
+![gallery2.png](/uploads/gallery2.png)
