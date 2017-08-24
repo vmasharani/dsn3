@@ -5,6 +5,7 @@ tags:
 - branding
 - web
 num: '03'
+layout: post
 ---
 
 Maryland Art Place

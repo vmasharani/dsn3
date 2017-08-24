@@ -5,6 +5,7 @@ tags:
 - print
 - experimental
 num: '07'
+layout: post
 ---
 
 Misc.

@@ -9,14 +9,9 @@ collections:
     title: Uploads
     output: true
 email: vmasharani@mica.edu
-description: |+
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet vulputate mauris. Phasellus cursus orci ut turpis malesuada lobortis. Mauris gravida eget purus eget tristique. Vivamus placerat lacus lectus, id dignissim erat interdum quis. Duis ac accumsan mauris. Pellentesque facilisis consectetur urna, vitae pharetra augue varius at. Donec posuere hendrerit libero sit amet tincidunt. Morbi luctus, sapien sed vehicula dapibus, arcu nulla tristique turpis, nec ullamcorper augue purus et lacus. Nunc finibus, quam et lacinia pellentesque, libero nibh vestibulum leo, vel facilisis turpis nisl sit amet eros. Donec laoreet maximus finibus.
-
-
+description: Designer+ . Bay area now / brooklyn soon.
 baseurl: 
 url: 
-twitter_username: jekyllrb
-github_username: jekyll
 markdown: kramdown
 theme: minima
 plugins:
