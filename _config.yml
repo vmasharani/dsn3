@@ -14,5 +14,7 @@ baseurl:
 url: 
 markdown: kramdown
 theme: minima
+assets:
+  sources: assets/fonts.scss
 plugins:
 - jekyll-feed
