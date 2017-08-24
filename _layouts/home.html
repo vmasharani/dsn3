@@ -5,12 +5,12 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">Projects</h1>
+  {% assign sorted_posts = posts | sort:"meta.num" %}
 
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
-    {% assign sorted_posts = posts | sort:"meta.num" %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
