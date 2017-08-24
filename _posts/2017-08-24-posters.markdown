@@ -7,7 +7,10 @@ num: '04'
 layout: post
 ---
 
-![mbrands.png](/uploads/mbrands.png)
-![prop.png](/uploads/prop.png)
-![mbrandsgif.gif](/uploads/mbrandsgif.gif)
-![superfeelposter-smaller-color.jpg](/uploads/superfeelposter-smaller-color.jpg)
+![mbrands.png](/uploads/mbrands.png){:.epsilon}
+
+![prop.png](/uploads/prop.png){:.epsilon}
+
+![mbrandsgif.gif](/uploads/mbrandsgif.gif){:.alpha}
+
+![superfeelposter-smaller-color.jpg](/uploads/superfeelposter-smaller-color.jpg){:.epsilon}
