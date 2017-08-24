@@ -9,14 +9,9 @@ collections:
     title: Uploads
     output: true
 email: vmasharani@mica.edu
-description: 
-  Designer+ . Bay area now / brooklyn soon.
-
-
-baseurl:
-url:
-# twitter_username: jekyllrb
-# github_username: jekyll
+description: Designer+ . Bay area now / brooklyn soon.
+baseurl: 
+url: 
 markdown: kramdown
 theme: minima
 plugins:
