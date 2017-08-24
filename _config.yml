@@ -10,11 +10,14 @@ collections:
     output: true
 email: vmasharani@mica.edu
 description: Designer+ . Bay area now / brooklyn soon.
-baseurl:
-url:
+baseurl: 
+url: 
 markdown: kramdown
 theme: minima
+<<<<<<< HEAD
 assets:
   sources: dsn3/sass/minima/fonts.scss
+=======
+>>>>>>> 061908770c4ebc2cfa24e9763ce37edeaccc0169
 plugins:
 - jekyll-feed
