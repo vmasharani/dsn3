@@ -4,6 +4,7 @@ date: 2017-08-24 01:13:00 Z
 tags:
 - print
 num: '04'
+layout: post
 ---
 
 Posters

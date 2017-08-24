@@ -5,6 +5,7 @@ tags:
 - web
 - branding
 num: '05'
+layout: post
 ---
 
-Inspire 
+Inspire

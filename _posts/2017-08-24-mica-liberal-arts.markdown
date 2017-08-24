@@ -5,6 +5,7 @@ tags:
 - branding
 - spatial
 num: '02'
+layout: post
 ---
 
 Liberal Arts
