@@ -7,3 +7,4 @@ tags:
 num: '02'
 ---
 
+Liberal Arts
