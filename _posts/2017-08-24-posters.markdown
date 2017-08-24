@@ -7,8 +7,6 @@ num: '04'
 layout: post
 ---
 
-Various posters
-
 ![mbrands.png](/uploads/mbrands.png)
 ![prop.png](/uploads/prop.png)
 ![mbrandsgif.gif](/uploads/mbrandsgif.gif)
