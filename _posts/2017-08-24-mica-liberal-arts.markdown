@@ -9,3 +9,5 @@ layout: post
 ---
 
 Liberal Arts
+![libartsdiagram-01.png](/uploads/libartsdiagram-01.png)
+![IMG_20170329_110622 copy.jpg](/uploads/IMG_20170329_110622%20copy.jpg)
