@@ -10,5 +10,5 @@ layout: post
 
 Myself, [Nick Fogarty](http://nickfogarty.info), and [Michael Auer ](http://michaelauer.co) branded the MICA Liberal Arts division and implemented a spatial installation to create a commonspace reminiscent of a coffee shop.
 
-![libartsdiagram-01.png](/uploads/libartsdiagram-01.png)
-![IMG_20170329_110622 copy.jpg](/uploads/IMG_20170329_110622%20copy.jpg)
+![libartsdiagram-01.png](/uploads/libartsdiagram-01.png){:.beta}
+![IMG_20170329_110622 copy.jpg](/uploads/IMG_20170329_110622%20copy.jpg){:.beta}

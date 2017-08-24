@@ -8,11 +8,14 @@ num: '06'
 layout: post
 ---
 
-![ngym1.jpg](/uploads/ngym1.jpg)
-![rhino-1.jpg](/uploads/rhino-1.jpg)![rhino-2.jpg](/uploads/rhino-2.jpg)
-![topview.jpg](/uploads/topview.jpg)
-![ngym2.jpg](/uploads/ngym2.jpg)![ngym4.jpg](/uploads/ngym4.jpg)
-![ngym6.jpg](/uploads/ngym6.jpg)
-![ngym5.jpg](/uploads/ngym5.jpg)
-![ngym8.jpg](/uploads/ngym8.jpg)
-![ngym7.jpg](/uploads/ngym7.jpg)
+![ngym1.jpg](/uploads/ngym1.jpg){:.delta}
+
+![rhino-1.jpg](/uploads/rhino-1.jpg){:.zeta}![rhino-2.jpg](/uploads/rhino-2.jpg){:.zeta}
+
+![topview.jpg](/uploads/topview.jpg){:.beta}
+
+![ngym2.jpg](/uploads/ngym2.jpg){:.zeta-wide}![ngym4.jpg](/uploads/ngym4.jpg){:.zeta-wide}
+![ngym6.jpg](/uploads/ngym6.jpg){:.epsilon-wide}
+![ngym5.jpg](/uploads/ngym5.jpg){:.epsilon-wide}
+![ngym8.jpg](/uploads/ngym8.jpg){:.gamma}
+![ngym7.jpg](/uploads/ngym7.jpg){:.gamma}
