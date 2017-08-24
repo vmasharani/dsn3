@@ -8,6 +8,8 @@ num: '06'
 layout: post
 ---
 
+Laser-cut acrylic, 3D printed hardware, steel, insulation foam weights. 3-D modeled in RhinoCAD. In collaboration with [Trisha Cheeney](http://trishacheeney.com)
+
 ![ngym1.jpg](/uploads/ngym1.jpg){:.delta}
 
 ![rhino-1.jpg](/uploads/rhino-1.jpg){:.zeta}![rhino-2.jpg](/uploads/rhino-2.jpg){:.zeta}
