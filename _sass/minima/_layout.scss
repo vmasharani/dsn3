@@ -193,9 +193,21 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
+    margin-bottom: calc(#{$spacing-unit}/2);
+
+    .taglisting{
+      display:inline-block;
+
+      @include relative-font-size(.6);
+      text-transform:uppercase;
+      font-style:italic;
+
+      color:grey;
+
+    }
   }
 }
+
 
 .post-meta {
   font-size: $small-font-size;
@@ -271,7 +283,7 @@
     @include media-query($on-palm){
       max-width:100%;
     }
-    max-width:68%;
+    max-width:77%;
 
 
   }
@@ -279,12 +291,12 @@
     @include media-query($on-palm){
       max-width:100%;
     }
-    max-width:60%;
+    max-width:67%;
 
 
   }
   .delta{
-    max-width:42%;
+    max-width:49%;
     @include media-query($on-palm){
       max-width:100%;
     }
@@ -296,14 +308,16 @@
     @include media-query($on-palm){
       max-width:100%;
     }
-    max-width:38%;
+    max-width:45%;
   }
 
   .epsilon-wide{
     @include media-query($on-palm){
       max-width:100%;
+      margin:$spacing-unit 0 $spacing-unit 0;
+
     }
-    max-width:38%;
+    max-width:45%;
     margin:$spacing-unit 36px $spacing-unit 36px;
 
   }
@@ -311,14 +325,16 @@
     @include media-query($on-palm){
       max-width:100%;
     }
-    max-width:25%;
+    max-width:32%;
 
   }
   .zeta-wide{
     @include media-query($on-palm){
       max-width:100%;
+      margin:$spacing-unit 0 $spacing-unit 0;
+
     }
-    max-width:25%;
+    max-width:32%;
     margin:$spacing-unit 70px $spacing-unit 70px;
 
   }

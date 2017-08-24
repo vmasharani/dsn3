@@ -8,12 +8,13 @@ num: '03'
 layout: post
 ---
 
-Full site [here](http://vmasharani.github.io/map/index.html).
+Rebrand / site mockup. Full site [here](http://vmasharani.github.io/map/index.html).
 
 ![Screen Shot 2017-01-07 at 9.43.16 PM.png](/uploads/Screen%20Shot%202017-01-07%20at%209.43.16%20PM.png){:.beta .wfshadow}
 ![Screen Shot 2017-01-07 at 9.42.29 PM.png](/uploads/Screen%20Shot%202017-01-07%20at%209.42.29%20PM.png){:.beta .wfshadow}
 ![Screen Shot 2017-01-07 at 9.43.03 PM.png](/uploads/Screen%20Shot%202017-01-07%20at%209.43.03%20PM.png){:.beta .wfshadow}
 
+Mobile spreads.
 
 ![Screen Shot 2017-01-07 at 9.44.52 PM.png](/uploads/Screen%20Shot%202017-01-07%20at%209.44.52%20PM.png){:.zeta .wfshadow}
 ![Screen Shot 2017-01-07 at 9.45.13 PM.png](/uploads/Screen%20Shot%202017-01-07%20at%209.45.13%20PM.png){:.zeta .wfshadow}
