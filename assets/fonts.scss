@@ -1,0 +1,14 @@
+$font-name:"PostGrotesk-Book";
+$font-filepath-and-name:"/fonts/PostGrotesk-Book";
+
+
+
+@mixin embed-font($font-name, $font-filepath-and-name){
+
+  @font-face {
+    font-family: $font-name;
+    src: url(asset_path($font-filepath-and-name+".eot")), /* IE9 Compat Modes */
+         url(asset_path($font-filepath-and-name+".woff")) format('woff'), /* Modern Browsers */
+         url(asset_path($font-filepath-and-name+".woff2"))  format('woff2'); /* Safari, Android, iOS */
+    }
+}
