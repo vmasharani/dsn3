@@ -1,11 +1,16 @@
 @charset "utf-8";
 
 
-
+@font-face {
+  font-family: 'PostGrotesk';
+  src: url("fonts/PostGrotesk-Book.eot"), /* IE9 Compat Modes */
+       url("fonts/PostGrotesk-Book.woff") format('woff'), /* Modern Browsers */
+       url("fonts/PostGrotesk-Book.woff2")  format('woff2'); /* Safari, Android, iOS */
+  }
 
 // Define defaults for each variable.
 
-$base-font-family: "PostGrotesk-Book" !default;
+$base-font-family: 'PostGrotesk' !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
