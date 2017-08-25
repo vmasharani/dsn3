@@ -1,14 +1,9 @@
 @charset "utf-8";
 
 @import "fonts.scss";
-
-
-$font:"PostGrotesk-Book";
-
-@import "fonts.scss";
 // Define defaults for each variable.
 
-$base-font-family: "PostGrotesk-Book" !default;
+$base-font-family: "Post Grotesk" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
