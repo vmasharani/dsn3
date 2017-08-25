@@ -12,8 +12,6 @@ email: vmasharani@mica.edu
 description: Designer+ . Bay area now / brooklyn soon.
 baseurl:
 url:
-  sass:
-    sass_dir: _sass
 assets:
   sources:
     - _assets
