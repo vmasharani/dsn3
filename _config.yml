@@ -14,8 +14,8 @@ baseurl:
 url: 
 assets:
   sources:
-  - assets
-  - assets/fonts
+  - _assets
+  - _assets/fonts
 markdown: kramdown
 theme: minima
 plugins:
