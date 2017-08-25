@@ -2,6 +2,16 @@
 
 // Define defaults for each variable.
 
+@font-face {
+  font-family: 'Garnett Grotesk';
+  src: url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.eot');
+  src: url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.woff') format('woff'),
+    url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
 $base-font-family: "Garnett Grotesk" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
