@@ -2,7 +2,7 @@
  * Site header
  */
 
-
+@import "fonts.scss";
 
 .site-header {
   // border-top: 5px solid $grey-color-dark;
@@ -184,6 +184,7 @@
  * Page content
  */
 .page-content {
+  font-family:"Post Grotesk";
   padding: $spacing-unit 0;
 }
 
