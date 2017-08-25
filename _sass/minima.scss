@@ -3,13 +3,43 @@
 // Define defaults for each variable.
 
 @font-face {
-  font-family: 'Garnett Grotesk';
-  src: url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.eot');
-  src: url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.eot?#iefix') format('embedded-opentype'),
-    url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.woff') format('woff'),
-    url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.ttf') format('truetype');
-  font-weight: bold;
-  font-style: italic;
+	font-family: 'Garnett Grotesk';
+	src: url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.eot');
+	src: url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.woff') format('woff'),
+		url('http://files.cargocollective.com/336335/GarnettGrotesk-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Garnett Grotesk';
+	src: url('http://files.cargocollective.com/336335/GarnettGrotesk-Bold.eot');
+	src: url('http://files.cargocollective.com/336335/GarnettGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://files.cargocollective.com/336335/GarnettGrotesk-Bold.woff') format('woff'),
+		url('http://files.cargocollective.com/336335/GarnettGrotesk-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Garnett Grotesk';
+	src: url('http://files.cargocollective.com/336335/GarnettGrotesk-RegularItalic.eot');
+	src: url('http://files.cargocollective.com/336335/GarnettGrotesk-RegularItalic.eot?#iefix') format('embedded-opentype'),
+		url('http://files.cargocollective.com/336335/GarnettGrotesk-RegularItalic.woff') format('woff'),
+		url('http://files.cargocollective.com/336335/GarnettGrotesk-RegularItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Garnett Grotesk';
+	src: url('http://files.cargocollective.com/336335/GarnettGrotesk-Regular.eot');
+	src: url('http://files.cargocollective.com/336335/GarnettGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+		url('http://files.cargocollective.com/336335/GarnettGrotesk-Regular.woff') format('woff'),
+		url('http://files.cargocollective.com/336335/GarnettGrotesk-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
 }
 
 $base-font-family: "Garnett Grotesk" !default;
