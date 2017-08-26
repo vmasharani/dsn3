@@ -42,7 +42,15 @@
 	font-style: normal;
 }
 
-$base-font-family: "Garnett Grotesk" !default;
+@font-face{
+  font-family: 'Post Grotesk';
+  src: url('https://files.cargocollective.com/c27929/PostGrotesk-Book.eot');
+  src: url('https://files.cargocollective.com/c27929/PostGrotesk-Book.eot?iefix') format('embedded-opentype'),
+    url('https://files.cargocollective.com/c27929/PostGrotesk-Book.woff') format('woff'),
+    url('https://files.cargocollective.com/c27929/PostGrotesk-Book.woff2') format('woff2');
+}
+
+$base-font-family: "Post Grotesk" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
