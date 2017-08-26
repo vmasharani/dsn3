@@ -1,5 +1,5 @@
 ---
-title: Vijay Masharani
+title: VIJAY MASHARANI
 timezone: UTC
 collections:
   posts:
@@ -10,8 +10,8 @@ collections:
     output: true
 email: vmasharani@mica.edu
 description: Designer+ . Bay area now / brooklyn soon.
-baseurl: 
-url: 
+baseurl:
+url:
 markdown: kramdown
 theme: minima
 plugins:
