@@ -4,7 +4,9 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Projects</h1>
+  currently doing some housekeeping; email for portfolio + resume.
+
+  <!-- <h1 class="page-heading">Projects</h1>
 
   {{ content }}
 
@@ -12,7 +14,7 @@ layout: default
     {% for post in site.posts reversed%}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <h2 style="display:inline-block;">
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -20,7 +22,7 @@ layout: default
         <div class="taglisting">{{ post.tags | sort | join: ", " }}</div>
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
 
 </div>
